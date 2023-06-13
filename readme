@@ -1,4 +1,4 @@
-Antes executar o programa, é preciso colocar os arquivos: ips.txt e tempo.txt dentro da mesma pasta onde o programa é executado.
+Antes executar o programa, é preciso colocar os arquivos: ips.txt e tempo.txt dentro da mesma pasta onde o programa será executado.
 
 E é obvio que precisa configurar os ips (ips.txt) conforme a sua necessidade ou necessidade de sua rede... Bem como o tempo de ping (temp.txt).
 Os ips devem ser colocados um por linha. Já o tempo é lido em apenas uma linha e é correspondente a segundos.
